@@ -1,4 +1,10 @@
 {
+  "name": "wzry-skin",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/anemele/wzry-skin-nodejs",
+  "author": "Jason Swift <anemele@outlook.com>",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^20.9.0",
     "axios": "^1.6.2",
